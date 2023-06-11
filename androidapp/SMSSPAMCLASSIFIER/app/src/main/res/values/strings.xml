@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OWNSMSAPP</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="messagesent">Message sent!</string>
+    <string name="title_activity_android_service_test">AndroidServiceTestActivity</string>
+</resources>
