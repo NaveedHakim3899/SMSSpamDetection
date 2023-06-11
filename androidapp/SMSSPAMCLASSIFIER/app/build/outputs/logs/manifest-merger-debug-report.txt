@@ -1,0 +1,266 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:2:1-65:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\f0d1f7ab1cda4a40aaff12c5a8ab710a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\bc81d5c0e176b1a39df670aeb9f7a24e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\768db006a34796335f519d89d0ce02d0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\de7270e5fb3ee20b7ce8fc17288d0959\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e714e37617229a10cb2cfb6fc3d85f26\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\12f9bee1c4cc24b97ea2c1940c2036c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\95ec307c5f35f6eed85d11a8439700bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1d128983068f5bf85f4addb63096f856\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\9a3b03496e62d7810b2b29f8dcab5e33\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f9a80cd0cc8098d2a7202bdde2f68e08\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\6d4a2cb5fc373852514c3cf655b1f165\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\2c466cc74d2f52ff98c96d6e11aa1cc4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\225185b738d4d53b0141770087b09795\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\37f6073fc890954d651c3928b6be6b83\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d7641a8cdce809a27916c26610dfddfd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\c04586b2ba6b8664a9b91a1948321191\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\bb5ee32d5dbbe57b63402671f175ae81\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\736afbaba2ffcc7967f3709bc065df7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\68d4894142c5d28be01077203691e47d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7a70ba6bdf07650d13d5bb057395d7dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2afb9e6d25dfb8682358de831d3855f5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3e687295f445c5a246d3f77107f1947b\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\19d76631e00ebbc352e7b9498449fbf9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\2b1aac7fa6fb093e9a4f14c36af1743e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\63f674b51bae4112a204e45727b0dd3c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\7d28d07c65fc9fe930172c13fede2c5c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\78f7dc83a4a1b3748f3777ba31dd2048\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\702165d055666e96815c2264abfaa1af\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6fc1a7dab75f71662076262064a38391\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a397ca0fa327550d5e7bdb06eee23de7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c478fa69c310c7604425e94b94aeab74\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a76c5121adf4b06fded09de35b37e2d4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7fb01536205a5608c0361a6e4a272227\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:2:1-65:12
+	package
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml
+		INJECTED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:2:1-65:12
+		INJECTED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:2:1-65:12
+		INJECTED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:5:5-72
+	android:name
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:5:22-69
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_SMS
+ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:8:5-70
+	android:name
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:8:22-67
+uses-permission#android.permission.INTERNET
+ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.READ_PROFILE
+ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:10:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:12:22-72
+application
+ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:14:5-63:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\f0d1f7ab1cda4a40aaff12c5a8ab710a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\f0d1f7ab1cda4a40aaff12c5a8ab710a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\768db006a34796335f519d89d0ce02d0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\768db006a34796335f519d89d0ce02d0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2afb9e6d25dfb8682358de831d3855f5\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2afb9e6d25dfb8682358de831d3855f5\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3e687295f445c5a246d3f77107f1947b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3e687295f445c5a246d3f77107f1947b\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2afb9e6d25dfb8682358de831d3855f5\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:20:9-40
+activity#com.example.naveed.ownsmsapp.MainActivity
+ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:21:9-32:20
+	android:name
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:21:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:25:27-74
+intent-filter#action:name:com.package.name.MyAction+category:name:android.intent.category.DEFAULT
+ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:27:13-31:29
+action#com.package.name.MyAction
+ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:28:25-65
+category#android.intent.category.DEFAULT
+ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:30:27-73
+receiver#com.example.naveed.ownsmsapp.MyReceiver2
+ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:34:9-42:20
+	android:enabled
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:35:13-40
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:39:13-41:29
+	android:priority
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:39:28-50
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:40:17-82
+	android:name
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:40:25-79
+activity#com.example.naveed.ownsmsapp.New_Message
+ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:44:9-49
+	android:name
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:44:19-46
+receiver#com.example.naveed.ownsmsapp.BootDeviceReceiver
+ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:46:9-53:20
+	android:enabled
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:48:13-35
+	android:exported
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:49:13-36
+	android:name
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:47:13-47
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:50:13-52:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:51:17-79
+	android:name
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:51:25-76
+service#com.example.naveed.ownsmsapp.MyService
+ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:55:9-58:39
+	android:enabled
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:57:13-35
+	android:exported
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:56:13-38
+service#com.example.naveed.ownsmsapp.newservice
+ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:59:9-62:47
+	android:enabled
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:61:13-35
+	android:exported
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:62:13-36
+	android:name
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml:60:13-39
+uses-sdk
+INJECTED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml
+INJECTED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\f0d1f7ab1cda4a40aaff12c5a8ab710a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\f0d1f7ab1cda4a40aaff12c5a8ab710a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\bc81d5c0e176b1a39df670aeb9f7a24e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\bc81d5c0e176b1a39df670aeb9f7a24e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\768db006a34796335f519d89d0ce02d0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\768db006a34796335f519d89d0ce02d0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\de7270e5fb3ee20b7ce8fc17288d0959\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\de7270e5fb3ee20b7ce8fc17288d0959\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e714e37617229a10cb2cfb6fc3d85f26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e714e37617229a10cb2cfb6fc3d85f26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\12f9bee1c4cc24b97ea2c1940c2036c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\12f9bee1c4cc24b97ea2c1940c2036c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\95ec307c5f35f6eed85d11a8439700bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\95ec307c5f35f6eed85d11a8439700bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1d128983068f5bf85f4addb63096f856\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1d128983068f5bf85f4addb63096f856\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\9a3b03496e62d7810b2b29f8dcab5e33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\9a3b03496e62d7810b2b29f8dcab5e33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f9a80cd0cc8098d2a7202bdde2f68e08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f9a80cd0cc8098d2a7202bdde2f68e08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\6d4a2cb5fc373852514c3cf655b1f165\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\6d4a2cb5fc373852514c3cf655b1f165\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\2c466cc74d2f52ff98c96d6e11aa1cc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\2c466cc74d2f52ff98c96d6e11aa1cc4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\225185b738d4d53b0141770087b09795\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\225185b738d4d53b0141770087b09795\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\37f6073fc890954d651c3928b6be6b83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\37f6073fc890954d651c3928b6be6b83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d7641a8cdce809a27916c26610dfddfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d7641a8cdce809a27916c26610dfddfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\c04586b2ba6b8664a9b91a1948321191\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\c04586b2ba6b8664a9b91a1948321191\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\bb5ee32d5dbbe57b63402671f175ae81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\bb5ee32d5dbbe57b63402671f175ae81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\736afbaba2ffcc7967f3709bc065df7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\736afbaba2ffcc7967f3709bc065df7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\68d4894142c5d28be01077203691e47d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\68d4894142c5d28be01077203691e47d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7a70ba6bdf07650d13d5bb057395d7dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7a70ba6bdf07650d13d5bb057395d7dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2afb9e6d25dfb8682358de831d3855f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2afb9e6d25dfb8682358de831d3855f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3e687295f445c5a246d3f77107f1947b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3e687295f445c5a246d3f77107f1947b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\19d76631e00ebbc352e7b9498449fbf9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\19d76631e00ebbc352e7b9498449fbf9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\2b1aac7fa6fb093e9a4f14c36af1743e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\2b1aac7fa6fb093e9a4f14c36af1743e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\63f674b51bae4112a204e45727b0dd3c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\63f674b51bae4112a204e45727b0dd3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\7d28d07c65fc9fe930172c13fede2c5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\7d28d07c65fc9fe930172c13fede2c5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\78f7dc83a4a1b3748f3777ba31dd2048\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\78f7dc83a4a1b3748f3777ba31dd2048\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\702165d055666e96815c2264abfaa1af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\702165d055666e96815c2264abfaa1af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6fc1a7dab75f71662076262064a38391\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6fc1a7dab75f71662076262064a38391\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a397ca0fa327550d5e7bdb06eee23de7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a397ca0fa327550d5e7bdb06eee23de7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c478fa69c310c7604425e94b94aeab74\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c478fa69c310c7604425e94b94aeab74\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a76c5121adf4b06fded09de35b37e2d4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a76c5121adf4b06fded09de35b37e2d4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7fb01536205a5608c0361a6e4a272227\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Naveed\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7fb01536205a5608c0361a6e4a272227\AndroidManifest.xml:20:5-44
+INJECTED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml
+INJECTED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml
+		INJECTED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml
+		ADDED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml
+		INJECTED from D:\recentbackup\mysms\app\src\main\AndroidManifest.xml
